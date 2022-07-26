@@ -1,4 +1,11 @@
 az416426.vo.msecnd.net
+s20.tiktokcdn.com
+bytedapm.com
+lf16-tiktok-web.neutral.ttwstatic.com
+mcs-sg.tiktokv.com
+byteoversea.com
+tiktokv.com
+sf16-secsdk.ttwstatic.com
 azurefd.net
 publisher.liveperson.net
 ds-aksb-a.akamaihd.net
