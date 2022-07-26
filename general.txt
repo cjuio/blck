@@ -1,4 +1,12 @@
 az416426.vo.msecnd.net
+ajkn.com
+foresee.com
+flashtalking.com
+krxd.net
+inq.com
+invocacdn.com
+mpeasylink.com
+thunderhead.com
 s20.tiktokcdn.com
 bytedapm.com
 lf16-tiktok-web.neutral.ttwstatic.com
@@ -7,7 +15,7 @@ byteoversea.com
 tiktokv.com
 sf16-secsdk.ttwstatic.com
 azurefd.net
-publisher.liveperson.net
+liveperson.net
 ds-aksb-a.akamaihd.net
 typekit.net
 newscgp.com
