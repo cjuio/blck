@@ -1,0 +1,6 @@
+gstatic.com
+www.google.com
+www.googleapis.com
+fonts.googleapis.com
+play.google.com
+yimg.com
