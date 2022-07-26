@@ -3,4 +3,4 @@ google.com
 googleapis.com
 yimg.com
 ytimg.com
-ampproject.com
+amp-project.com
