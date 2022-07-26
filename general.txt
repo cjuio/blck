@@ -1,4 +1,5 @@
 sarafan.fun  
+instabug.com
 godsave.lgbt  
 reichelformier.bid  
 ubembed
@@ -62,7 +63,7 @@ top100.ru
 top100.ge
 braze.com
 https://app-measurement.com/sdk-exp
-appmetrica*
+*appmetrica*
 clck.yandex.ru
 appmetrica.yandex.net
 yoz.io
