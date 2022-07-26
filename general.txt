@@ -11,7 +11,7 @@ omtrdc
 bam-x  
 ads-twitter    
 bat.bing.com    
-kampyle  
+kampyle*  
 tiqcdn  
 demdex  
 dmdx  
