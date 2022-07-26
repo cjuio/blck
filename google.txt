@@ -4,3 +4,4 @@ www.googleapis.com
 fonts.googleapis.com
 play.google.com
 yimg.com
+jnn-pa.googleapis.com
