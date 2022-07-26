@@ -234,7 +234,7 @@ onelink.me
 my.ru
 my.com
 qr.sberbank.ru
-clickstream*
+*clickstream*
 stat.mos.ru
 evp.mos.ru
 sendpulse.com
