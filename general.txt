@@ -513,7 +513,6 @@ captcha-delivery.com
 *stats*
 www-growth.scdn.co
 mrkt-web.scdn.co
-yastatic.net
 rollbar.com
 excess.duolingo.com
 brb.duolingo.com
