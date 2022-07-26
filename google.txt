@@ -1,7 +1,6 @@
 gstatic.com
-www.google.com
-www.googleapis.com
-fonts.googleapis.com
-play.google.com
+google.com
+googleapis.com
 yimg.com
-jnn-pa.googleapis.com
+ytimg.com
+ampproject.com
