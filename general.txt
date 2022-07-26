@@ -27,7 +27,7 @@ micpn
 pdst  
 amplit*  
 sentry-cdn.com
-retailrocket*.*
+retailrocket*
 segmento*
 sentry*
 track*
@@ -54,12 +54,12 @@ perfectaudience.com
 stat.*
 adjust.net.in
 branch.io
-adjust.world
 adjust*
 roxot-panel*
 setka.io
 senseis.adobe.io
 top100.ru
+top100.ge
 braze.com
 https://app-measurement.com/sdk-exp
 appmetrica*
@@ -71,9 +71,8 @@ appboy.com
 qr.sberbank.ru
 *crashlytics*
 *firebase*
-crashlytics.com
 device-provisioning*
-appcenter*
+appcenter.ms
 *amplitude*
 altergeo.ru
 vkontakte.ru
