@@ -1,4 +1,8 @@
 az416426.vo.msecnd.net
+raygun*
+cstat.cdn-apple.com
+api-adservice*.apple.com
+iadsdk.apple.com
 ajkn.com
 foresee.com
 flashtalking.com
